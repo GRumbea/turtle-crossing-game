@@ -32,10 +32,4 @@ while game_is_on:
             scoreboard.game_over()
             game_is_on = False
 
-
-
 screen.exitonclick()
-
-# TODO: Create car and make it move
-# TODO: Create more cars and make them move
-# TODO: Detect collision/game over
